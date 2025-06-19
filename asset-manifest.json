@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srs-distribution-map/static/css/main.2ad592c5.css",
+    "main.js": "/srs-distribution-map/static/js/main.cb4804db.js",
+    "index.html": "/srs-distribution-map/index.html",
+    "main.2ad592c5.css.map": "/srs-distribution-map/static/css/main.2ad592c5.css.map",
+    "main.cb4804db.js.map": "/srs-distribution-map/static/js/main.cb4804db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad592c5.css",
+    "static/js/main.cb4804db.js"
+  ]
+}
