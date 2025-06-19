@@ -1,0 +1,1 @@
+export const Toggle = ({ children, onClick }) => <button onClick={onClick} className='bg-gray-200 rounded px-2 py-1 text-sm'>{children}</button>;
